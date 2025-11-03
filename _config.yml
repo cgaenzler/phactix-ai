@@ -1,35 +1,9 @@
-# Site settings
-title: Proactix-AI
-email: info@proactix.ai
-description: >
-  Proactix AI - Proactive pharma sales compliance with real-time risk detection and workflow automation.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://proactix-ai.github.io" # your site's full URL
-
-# Build settings
+title: Proactix AI
+description: Proactix AI - proactive pharmaceutical sales compliance platform with real-time AI insights.
 theme: minima
-sass:
-  sass_dir: _sass
-  
+
+# Plugins supported by GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Social links (update as you want)
-twitter_username: "ProActixAI"
-github_username:  "ProActixAI"
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "ProActix Team"
-
-# Exclude from processing
-exclude:
-  - README.md
 
