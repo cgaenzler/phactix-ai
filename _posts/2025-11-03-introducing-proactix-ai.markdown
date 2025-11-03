@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing Proactix AI: Transforming Pharma Sales Compliance"
-date: 2025-11-03 22:35:00 +0000
+date: 2025-11-03 22:35:00 +0100
 categories: investors
 ---
 
