@@ -8,12 +8,6 @@ This repository contains the source code and content for the ProActix public-fac
 
 The website presents ProActix's value proposition, investor pitch, product overview, and serves as a pre-sales resource.
 
-## Repository Structure
-
-- `/src` — Website source code (Jekyll or other static site generator files)  
-- `/docs` — Website documentation and content assets  
-- `/demo` — Demo or sample content for the site  
-
 ## Access and Contribution
 
 This repository is primarily for managing the website content. Contributions are limited to website improvements. Contact project leads for collaboration details.
