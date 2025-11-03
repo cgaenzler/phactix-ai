@@ -1,11 +1,13 @@
 ---
-layout: home
+layout: default
 title: Welcome to Proactix AI
 ---
 
+<div class="container">
+
 # Welcome to Proactix AI
 
-Proactix AI is a [translate:proactive pharmaceutical sales compliance platform] that provides **real-time AI-driven risk detection and workflow automation** to close compliance gaps and accelerate medical affairs collaboration.
+Proactix AI is a [translate:proactive pharmaceutical sales compliance platform] that provides real-time AI-driven risk detection and workflow automation to close compliance gaps and accelerate medical affairs collaboration.
 
 ## Why Proactix?
 
@@ -18,7 +20,5 @@ Proactix AI is a [translate:proactive pharmaceutical sales compliance platform] 
 
 Interested in learning more? [Contact us](mailto:info@proactix.ai) to schedule a demo or investor briefing.
 
----
-
-Thank you for visiting Proactix AI.
+</div>
 
