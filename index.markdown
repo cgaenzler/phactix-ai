@@ -1,6 +1,24 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome to Proactix AI
 ---
+
+# Welcome to Proactix AI
+
+Proactix AI is a [translate:proactive pharmaceutical sales compliance platform] that provides **real-time AI-driven risk detection and workflow automation** to close compliance gaps and accelerate medical affairs collaboration.
+
+## Why Proactix?
+
+- Prevent compliance risks before they happen  
+- Automate complex sales and medical inquiry workflows  
+- Improve salesforce productivity and compliance confidence  
+- Capture real-time insights for data-driven decisions
+
+## Get in Touch
+
+Interested in learning more? [Contact us](mailto:info@proactix.ai) to schedule a demo or investor briefing.
+
+---
+
+Thank you for visiting Proactix AI.
+
