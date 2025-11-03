@@ -7,7 +7,7 @@ categories: investors
 
 ## Proactix AI: Proactive Compliance for Pharma Reps
 
-**ProActix gives pharma reps real-time compliance updates, AI-driven risk detection, and automates medical affairs handoffs to protect reps and speed responses.**
+**Proactix gives pharma reps real-time compliance updates, AI-driven risk detection, and automates medical affairs handoffs to protect reps and speed responses.**
 
 ### Product History and Positioning
 
