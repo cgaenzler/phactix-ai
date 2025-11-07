@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Welcome to Proactix AI"
+title: "Welcome to Phactix AI"
 ---
-![Proactix AI Logo](/assets/images/logo.png){: style="display: block; margin-left: auto; margin-right: auto; max-height: 200px; margin-bottom: 20px;" }
-# Proactix AI
+![Phactix AI Logo](/assets/images/logo.png){: style="display: block; margin-left: auto; margin-right: auto; max-height: 200px; margin-bottom: 20px;" }
+# Phactix AI
 
-Proactix AI is a proactive pharmaceutical sales compliance platform that provides real-time AI-driven risk detection and workflow automation to close compliance gaps and accelerate medical affairs collaboration.
+Phactix AI is a proactive pharmaceutical sales compliance platform that provides real-time AI-driven risk detection and workflow automation to close compliance gaps and accelerate medical affairs collaboration.
