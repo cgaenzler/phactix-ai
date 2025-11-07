@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Proactix AI Initial Demo Video Walkthrough"
+title: "Phactix AI Initial Demo Video Walkthrough"
 date: 2025-11-07 10:00:00 -0500
 categories: [demo, video, compliance]
 tags: [figma, ux, compliance, aicloud]
 ---
 
-# Proactix AI Initial Demo Video Walkthrough
+# Phactix AI Initial Demo Video Walkthrough
 
-We are excited to share the first official demo video for the **Proactix AI** application, walking through the core compliance workflow.
+We are excited to share the first official demo video for the **Phactix AI** application, walking through the core compliance workflow.
 
 This video covers the full user journey: from selecting a meeting and giving **patient consent** to triggering the **compliance alert** during a live conversation.
 
