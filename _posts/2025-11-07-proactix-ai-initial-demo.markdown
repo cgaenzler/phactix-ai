@@ -10,7 +10,7 @@ tags: [figma, ux, compliance, aicloud]
 
 We are excited to share the first official demo video for the **Phactix AI** application, walking through the core compliance workflow.
 
-This video covers the full user journey: from selecting a meeting and giving **patient consent** to triggering the **compliance alert** during a live conversation.
+This video covers the full user journey: from selecting a meeting and giving **consent** to triggering the **compliance alert** during a live conversation.
 
 ### Watch the Full Demo
 
