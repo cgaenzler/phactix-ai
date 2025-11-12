@@ -8,7 +8,7 @@ tags: [FDA, MSL, off-label, HIPAA, Jekyll, iPadOS]
 image: /assets/images/Phactix_compliance_qa.png
 ---
 
-# Phactix AI: 10 Critical Q&A for Compliant Pharma Sales 🛡️
+# Phactix AI: 10 Critical Q&A for Compliant Pharma Sales
 
 Our AI-driven platform, **Phactix**, is engineered to turn a major compliance risk—the unsolicited off-label question—into a win-win situation for both pharmaceutical companies and healthcare professionals (HCPs).
 
