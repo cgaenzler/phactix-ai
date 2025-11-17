@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Phactix AI Initial Demo Video Walkthrough"
+title: "Phactix AI: Initial Demo Video Walkthrough"
 author: Christof Gaenzler
 date: 2025-11-07 10:00:00 -0500
 categories: [demo, video, compliance]
 tags: [figma, ux, compliance, aicloud]
 ---
 
-# Phactix AI Initial Demo Video Walkthrough
+# Phactix AI: Initial Demo Video Walkthrough
 
 We are excited to share the first official demo video for the **Phactix AI** application, walking through the core compliance workflow.
 
@@ -24,6 +24,7 @@ This video covers the full user journey: from selecting a meeting and giving **c
         allowfullscreen>
     </iframe>
 </div>
+video link: https://www.youtube.com/embed/qQQW-jd1nFI
 
 ## The Phactix AI Story: Closing the Compliance Gap
 
