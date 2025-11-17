@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Phactix AI: Your Compliance Ally in Pharma Sales"
+author: Christof Gaenzler
 date: 2025-11-03 23:00:00 +0100
 categories: update
 ---

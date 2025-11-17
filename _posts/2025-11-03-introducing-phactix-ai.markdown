@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing Phactix AI: Transforming Pharma Sales Compliance"
+author: Christof Gaenzler
 date: 2025-11-03 22:35:00 +0100
 categories: investors
 ---

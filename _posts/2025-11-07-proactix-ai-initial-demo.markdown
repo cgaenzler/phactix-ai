@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Phactix AI Initial Demo Video Walkthrough"
+author: Christof Gaenzler
 date: 2025-11-07 10:00:00 -0500
 categories: [demo, video, compliance]
 tags: [figma, ux, compliance, aicloud]

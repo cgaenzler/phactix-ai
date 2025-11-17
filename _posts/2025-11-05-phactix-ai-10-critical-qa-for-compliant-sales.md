@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phactix AI: 10 Critical Q&A for Compliant Pharma Sales"
-author: Phactix AI Team
+author: Christof Gaenzler
 date: 2025-11-05 14:45:00 +0100
 categories: [compliance, pharma, AI, sales enablement]
 tags: [FDA, MSL, off-label, HIPAA, Jekyll, iPadOS]
