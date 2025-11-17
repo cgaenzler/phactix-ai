@@ -38,7 +38,7 @@ Phactix AI is the **proactive safety layer** that plugs directly into your exist
 
 **The Workflow in 60 Seconds:**
 
-1.  **The Question:** Dr. Lee asks an off-label question.
+1.  **The Question:** HCP asks an off-label question.
 2.  **The Intervention:** Phactix AI instantly flags the question and guides the rep (Sarah) with the compliant "bridge language" required to stop the conversation.
 3.  **The Handoff:** Sarah assures the doctor the Medical Affairs team will respond.
 4.  **The Automation:** Phactix AI takes the verbatim question and **automatically populates and submits the auditable Medical Affairs form.**
