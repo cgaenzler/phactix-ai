@@ -24,7 +24,7 @@ This video covers the full user journey: from selecting a meeting and giving **c
         allowfullscreen>
     </iframe>
 </div>
-video link: https://www.youtube.com/embed/qQQW-jd1nFI
+video link: https://youtu.be/qQQW-jd1nFI?si=_7v6xvf18nMYIgpg
 
 ## The Phactix AI Story: Closing the Compliance Gap
 
