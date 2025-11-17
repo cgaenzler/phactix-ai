@@ -10,7 +10,7 @@ image: /assets/images/Phactix_compliance_qa.png
 
 # Phactix AI: 10 Critical Q&A for Compliant Pharma Sales
 
-Our AI-driven platform, **Phactix**, is engineered to turn a major compliance risk—the unsolicited off-label question—into a win-win situation for both pharmaceutical companies and healthcare professionals (HCPs).
+Our AI-driven platform, **Phactix AI**, is engineered to turn a major compliance risk—the unsolicited off-label question—into a win-win situation for both pharmaceutical companies and healthcare professionals (HCPs).
 
 Here is a Q&A breakdown of how Phactix works within the strict US regulatory environment, focusing on FDA rules, hospital policies, and technical feasibility.
 
@@ -18,7 +18,7 @@ Here is a Q&A breakdown of how Phactix works within the strict US regulatory env
 
 ## **Compliance and Regulatory Questions**
 
-### 1. **How does Phactix ensure compliance when an off-label question is asked?**
+### 1. **How does Phactix AI ensure compliance when an off-label question is asked?**
 
 Phactix uses its local AI to instantly **identify** the off-label question as it's spoken. It then automatically triggers a mandatory compliance workflow:
 1.  It flags the rep's iPad, providing compliant "bridge language" (e.g., "I can't answer, but our Medical Team can").
@@ -49,7 +49,7 @@ Phactix generates a single, machine-readable JSON object (our **PSCM: Phactix Si
 * The **Sales Rep's Confirmation** that they did *not* answer.
 * Traceable links proving the Medical Affairs team provided a scientifically sourced response.
 
-### 5. **How does Phactix maintain the required separation between Sales and Medical Affairs?**
+### 5. **How does Phactix AI maintain the required separation between Sales and Medical Affairs?**
 
 The platform creates a **digital firewall**:
 * The Sales Rep initiates the URI in their system (Commercial).
@@ -60,13 +60,13 @@ The platform creates a **digital firewall**:
 
 ## **Technical and Operational Questions**
 
-### 6. **Why is the iPad the recommended device for running Phactix?**
+### 6. **Why is the iPad the recommended device for running Phactix AI?**
 
 The **Apple M-series or A-series chips** in modern iPads include a powerful, dedicated **Neural Engine**. This hardware is essential for:
 * **High-Speed, On-Device Transcription:** Necessary to run the AI model locally without relying on internet speed.
 * **Privacy:** Ensures the raw audio never leaves the company-issued device.
 
-### 7. **Can Phactix run simultaneously with the e-detailer presentation software?**
+### 7. **Can Phactix AI run simultaneously with the e-detailer presentation software?**
 
 **Yes.** Phactix utilizes **iPadOS Split View Multitasking**. The rep can run their presentation in the main window while the Phactix transcription log runs in a smaller, secure side panel. This allows for real-time compliance logging without interrupting the sales discussion.
 
@@ -82,8 +82,8 @@ The rep's primary win is **Risk Reduction and Time Savings**.
 * The AI instantly guides the rep into compliant behavior, eliminating the **fear of non-compliance** (a major sales hurdle).
 * The platform automatically completes the lengthy URI paperwork, **saving 10-20 minutes of administrative work** per request.
 
-### 10. **Is Phactix considered a "Safe Harbor" for off-label discussions?**
+### 10. **Is Phactix AI considered a "Safe Harbor" for off-label discussions?**
 
-Phactix is not a "law," but an **enforcement discretion tool**. It is designed to perfectly execute the compliance steps outlined in the FDA Guidance, "Responding to Unsolicited Requests." By following the documented process and creating a perfect audit trail, Phactix ensures the company's actions fall within the FDA's established bounds for responding to unsolicited scientific inquiries.
+Phactix AI is designed to perfectly execute the compliance steps outlined in the FDA Guidance, "Responding to Unsolicited Requests." By following the documented process and creating a perfect audit trail, Phactix AI ensures the company's actions fall within the FDA's established bounds for responding to unsolicited scientific inquiries.
 
 ---

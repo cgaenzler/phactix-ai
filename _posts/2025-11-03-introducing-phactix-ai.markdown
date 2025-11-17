@@ -12,9 +12,9 @@ categories: investors
 
 ### Product History and Positioning
 
-Born to fill pharma’s compliance gaps, Phactix integrates predictive alerts and closed-loop inquiry workflows right inside the rep’s daily tools. Phactix transforms pharma sales compliance from reactive Q&A to proactive, real-time risk detection and workflow automation.
+Born to fill pharma’s compliance gaps, Phactix AI integrates predictive alerts and closed-loop inquiry workflows right inside the rep’s daily tools. Phactix transforms pharma sales compliance from reactive Q&A to proactive, real-time risk detection and workflow automation.
 
-### Why Phactix Matters
+### Why Phactix AI Matters
 
 Pharmaceutical sales reps often face complex compliance risks and regulatory scrutiny in real-time interactions with healthcare professionals. Phactix equips reps with the tools they need to:
 
@@ -29,4 +29,4 @@ We envision a future where pharmaceutical compliance is not a reactive hurdle bu
 
 ---
 
-For more information or to schedule a demo, please [contact us](mailto:christof.gaenzler@gmail.com
+For more information or to schedule a demo, please mailto: christof.gaenzler at gmail

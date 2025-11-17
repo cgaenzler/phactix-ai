@@ -10,7 +10,7 @@ categories: update
 
 Stay one step ahead with Phactix AI — the platform built with pharma sales reps in mind. We deliver real-time compliance updates, AI-powered risk detection, and seamless automation that simplifies your workflow and safeguards your daily interactions.
 
-### Why Choose Phactix?
+### Why Choose Phactix AI?
 
 - Get instant alerts on compliance risks so you can avoid costly mistakes  
 - Automate handoffs to medical affairs with smart workflows that save you time  
