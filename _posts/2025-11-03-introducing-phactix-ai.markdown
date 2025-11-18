@@ -8,7 +8,7 @@ categories: investors
 
 ## Phactix AI: Proactive Compliance for Pharma Reps
 
-**Phactix gives pharma reps real-time compliance updates, AI-driven risk detection, and automates medical affairs handoffs to protect reps and speed responses.**
+**Phactix gives pharma reps real-time compliance updates, AI-driven risk detection, and automates medical affairs handoffs to protect reps and speed up responses.**
 
 ### Product History and Positioning
 
