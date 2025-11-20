@@ -30,7 +30,6 @@ Phactix AI operates as a **proactive compliance layer** that integrates directly
 | Focus: Pre-Approved Content Delivery | Focus: Real-Time Risk Mitigation | A Safety Net: We protect the rep and the organization when the conversation deviates from the approved materials. |
 | Output: Activity Logging | Output: Automated Handoff & Audit Trail | Compliance Closure: We instantly flag off-label queries and trigger a documented, automated Medical Affairs handoff (Unsolicited Request for Information). |
 | Goal: Drive Engagement | Goal: Ensure Compliant Response | Maximizing Value: We ensure the high-value human interaction is safe, allowing reps to focus purely on building strategic relationships. |
-<br>
 
 ### The Phactix AI Promise
 
