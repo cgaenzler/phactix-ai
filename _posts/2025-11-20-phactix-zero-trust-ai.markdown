@@ -2,7 +2,7 @@
 layout: post
 title: "Phactix AI: The Essential Compliance Bridge in Pharma Sales"
 author: Christof Gaenzler
-date: 2025-11-20 10:45:00 -0500
+date: 2025-11-20 10:45:00 -0100
 categories: [AI, sales enablement, compliance, integration]
 tags: [CRM, CLM, sales technology, risk mitigation]
 ---
