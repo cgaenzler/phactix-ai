@@ -19,7 +19,7 @@ The life sciences sector requires real-time conversational data capture to drive
 
 Phactix solves this by integrating a powerful, specialized Large Language Model (LLM) directly onto the client iPad. This unique architecture establishes a Zero-Trust boundary at the point of data capture.
 
-Our core principle is simple: All compliance-sensitive processing happens instantly and locally.
+Our core principle is simple: **All compliance-sensitive processing happens instantly and locally.**
 
 How It Works: On-Device, Instant Compliance
 
