@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Simple Idea That Solves Pharma's Biggest Regulatory Nightmare"
+title: "Phactix AI - The Simple Idea That Solves Pharma's Biggest Regulatory Nightmare"
 author: Your Name/Phactix Team
 date: 2025-11-23 11:51:00 -0100
 categories: [Compliance, AI, Biotech]
