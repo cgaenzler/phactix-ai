@@ -7,8 +7,6 @@ categories: [AI, sales enablement, compliance, integration]
 tags: [CRM, CLM, sales technology, risk mitigation]
 ---
 
-# Phactix AI: Zero-Trust AI Compliance for Life Sciences Field Operations
-
 Phactix delivers the industry's first Zero-Trust AI Compliance Platform, ensuring sensitive patient and proprietary data never leaves the device unmasked.
 
 # The Compliance Challenge in Life Sciences

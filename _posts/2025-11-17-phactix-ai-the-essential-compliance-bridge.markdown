@@ -8,8 +8,6 @@ tags: [CRM, CLM, sales technology, risk mitigation]
 image: /assets/images/Phactix_compliance_bridge.png
 ---
 
-# Phactix AI: The Essential Compliance Bridge in Pharma Sales
-
 In the pharmaceutical industry, the current sales technology ecosystem relies on powerful solutions that manage **content delivery** and **activity tracking**. Phactix AI is not another competitor in this space; we are the essential **integration layer** that makes your existing tech stack **truly compliant** when the conversation turns unscripted.
 
 We ensure that the human sales representative—the most valuable asset—is protected and empowered at the point of customer engagement.

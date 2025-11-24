@@ -7,7 +7,7 @@ categories: [demo, video, compliance]
 tags: [figma, ux, compliance, aicloud]
 ---
 
-# Phactix AI: Initial Demo Video Walkthrough
+# Please have a look at our initial Demo Video
 
 We are excited to share the first official demo video for the **Phactix AI** application, walking through the core compliance workflow.
 
