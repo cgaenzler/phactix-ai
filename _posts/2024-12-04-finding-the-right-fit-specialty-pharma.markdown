@@ -48,7 +48,7 @@ This focus allows Phactix AI to be uniquely positioned to serve this high-value 
 This strategy is guiding our path forward:
 
 * **Value-Based Pricing:** We are focused on a pricing strategy designed for this market
-* **Critical Feature Focus:** Our development is laser-focused on automating high-volume Medical Inquiry (MI) workflows and embedding predictive compliance—the pain points that keep specialty pharma VPs up at night.
+* **Critical Feature Focus:** Our development is laser-focused on automating Medical Inquiry (MI) workflows and embedding predictive compliance—the pain points that keep specialty pharma VPs up at night.
 
 Our platform is being built with the flexibility to serve any pharma company. Phactix AI is set to empower the fastest-growing sector of the industry to scale with confidence and compliance.
 
