@@ -47,12 +47,11 @@ This focus allows Phactix AI to be uniquely positioned to serve this high-value 
 
 This strategy is guiding our path forward:
 
-* **Value-Based Pricing:** We are focused on a pricing strategy designed for this market (e.g., $300-$500/rep/month) that is accessible and drives immediate ROI.
+* **Value-Based Pricing:** We are focused on a pricing strategy designed for this market
 * **Critical Feature Focus:** Our development is laser-focused on automating high-volume Medical Inquiry (MI) workflows and embedding predictive compliance—the pain points that keep specialty pharma VPs up at night.
-* **Targeted Go-To-Market:** We are building partnerships directly with VP Medical Affairs and Sales leaders at 50-200 rep companies, speaking directly to their specific compliance and resource challenges.
 
 Our platform is being built with the flexibility to serve any pharma company. Phactix AI is set to empower the fastest-growing sector of the industry to scale with confidence and compliance.
 
 ## The Broader Lesson
 
-In a complex B2B market, success comes from clarity. We believe that by rigorously analyzing the market and letting data guide our focus, we can move beyond simply building a great product and become the essential compliance partner for the future of medicine.
+In a complex B2B market, success comes from clarity. We believe that by rigorously analyzing the market and letting data guide our focus, we can move beyond simply building a great product and become an essential compliance partner for the future of medicine.
