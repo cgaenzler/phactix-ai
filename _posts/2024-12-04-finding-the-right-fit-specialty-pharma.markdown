@@ -37,7 +37,7 @@ A specialty launch in gene therapy generates regulatory questions that are often
 The market signals powerfully affirm this focus:
 
 * **Accelerated Growth:** Specialty drugs now account for approximately 50% of total pharmaceutical spending and are growing at 8-10% annually—significantly outperforming traditional pharma growth. This proliferation of emerging, well-funded biotechs creates a massive need for dedicated tools.
-* **Clear Demand for Value:** Industry leaders have confirmed the tension: "We can't afford enterprise solutions, but we absolutely cannot afford *not* to invest in compliance automation." This validates the demand for a solution that delivers enterprise protection at mid-market pricing.
+* **Clear Demand for Value:** Industry leaders have confirmed the tension: "We can't afford enterprise solutions, but we absolutely cannot afford *not* to invest in compliance automation." This validates the demand for a solution that deliver enterprise protection at mid-market pricing.
 
 ## Phactix's Strategic Positioning
 
