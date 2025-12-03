@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Closed-Loop Workflow Advantage: Why Phactix Is New"
-date: 2024-12-06 06:00:00 -0500
+date: 2025-12-06 06:00:00 -0500
 categories: [product, workflow-automation]
 author: Christof Gaenzler
 ---
