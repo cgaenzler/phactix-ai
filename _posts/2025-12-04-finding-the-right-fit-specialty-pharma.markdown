@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding the Right Fit: Why Specialty Pharma Might Be Phactix's Perfect Partner"
-date: 2025-12-04 06:00:00 -0500
+date: 2025-12-04 06:00:00 -0100
 categories: [strategy, market-analysis, specialty-pharma]
 author: Christof Gaenzler
 ---

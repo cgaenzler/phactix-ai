@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Month In: Building the Future of Trust with Phactix AI"
-author: Phactix AI Team
+author: Christof Gaenzler
 date: 2025-11-28 10:00:00 -0100
 categories: [update, community, trust, compliance]
 tags: [sales enablement, AI, Zero Trust, partnership, human-first]

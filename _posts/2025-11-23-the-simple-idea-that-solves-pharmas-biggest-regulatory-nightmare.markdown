@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phactix AI: The Simple Idea That Solves Pharma's Biggest Regulatory Nightmare"
-author: Your Name/Phactix Team
+author: Christof Gaenzler
 date: 2025-11-23 11:51:00 -0100
 categories: [Compliance, AI, Biotech]
 ---
